@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UnrealEngine\\SIS_457\\Source\\SIS_457\\SIS_457.Build.cs",
+		"D:\\UnrealEngine\\SIS_457\\Source\\SIS_457.Target.cs",
+		"D:\\UnrealEngine\\SIS_457\\Source\\SIS_457Editor.Target.cs"
+	],
+	"EngineVersion": "5.5.3"
+}

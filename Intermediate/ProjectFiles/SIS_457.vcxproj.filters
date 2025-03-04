@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SIS_457.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SIS_457.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SIS_457Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\SIS_457">
+      <UniqueIdentifier>{8CCDC539-59C5-37D3-9AFB-A94853CF8DB9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SIS_457\SIS_457.Build.cs">
+      <Filter>Source\SIS_457</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SIS_457\SIS_457.cpp">
+      <Filter>Source\SIS_457</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SIS_457\SIS_457.h">
+      <Filter>Source\SIS_457</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SIS_457\SIS_457Character.cpp">
+      <Filter>Source\SIS_457</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SIS_457\SIS_457Character.h">
+      <Filter>Source\SIS_457</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SIS_457\SIS_457GameMode.cpp">
+      <Filter>Source\SIS_457</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SIS_457\SIS_457GameMode.h">
+      <Filter>Source\SIS_457</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

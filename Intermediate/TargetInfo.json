@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SIS_457",
+			"Path": "..\\Source\\SIS_457.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SIS_457Editor",
+			"Path": "..\\Source\\SIS_457Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
