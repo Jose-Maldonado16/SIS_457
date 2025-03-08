@@ -13,6 +13,9 @@ class ASIS_457GameMode : public AGameModeBase
 
 public:
 	ASIS_457GameMode();
+
+public:
+	virtual void BeginPlay() override;
 };
 
 

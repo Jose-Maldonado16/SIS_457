@@ -11,6 +11,9 @@
     <None Include="..\..\Source\SIS_457Editor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -32,6 +35,30 @@
     <Filter Include="Source\SIS_457">
       <UniqueIdentifier>{8CCDC539-59C5-37D3-9AFB-A94853CF8DB9}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\SIS_457\Bloque.cpp">
+      <Filter>Source\SIS_457</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SIS_457\Bloque.h">
+      <Filter>Source\SIS_457</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SIS_457\Bloques.cpp">
+      <Filter>Source\SIS_457</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SIS_457\Bloques.h">
+      <Filter>Source\SIS_457</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SIS_457\ladrillo.cpp">
+      <Filter>Source\SIS_457</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SIS_457\ladrillo.h">
+      <Filter>Source\SIS_457</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SIS_457\Muro.cpp">
+      <Filter>Source\SIS_457</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SIS_457\Muro.h">
+      <Filter>Source\SIS_457</Filter>
+    </ClCompile>
     <None Include="..\..\Source\SIS_457\SIS_457.Build.cs">
       <Filter>Source\SIS_457</Filter>
     </None>
