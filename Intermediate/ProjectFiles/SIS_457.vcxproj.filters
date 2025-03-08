@@ -41,12 +41,6 @@
     <ClCompile Include="..\..\Source\SIS_457\Bloque.h">
       <Filter>Source\SIS_457</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Source\SIS_457\Bloques.cpp">
-      <Filter>Source\SIS_457</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Source\SIS_457\Bloques.h">
-      <Filter>Source\SIS_457</Filter>
-    </ClCompile>
     <ClCompile Include="..\..\Source\SIS_457\ladrillo.cpp">
       <Filter>Source\SIS_457</Filter>
     </ClCompile>
